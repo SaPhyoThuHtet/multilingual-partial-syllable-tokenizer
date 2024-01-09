@@ -16,11 +16,10 @@ Character-level Tokenization for other languages
 ## Bibtex
 ```
 @article{SaPhyoThuHtet,
-  title={nlp-tool},
-  author={Phyo Thu Htet},
+  title={multilingual-partial-syllable-tokenizer},
+  author={Sa Phyo Thu Htet},
   journal={https://github.com/SaPhyoThuHtet/nlp-tool},
-  volume={1},
-  year={2019-2023}
+  year={2019-2024}
 }
 ```
 
