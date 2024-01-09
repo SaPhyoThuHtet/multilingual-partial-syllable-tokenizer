@@ -18,7 +18,7 @@ Character-level Tokenization for other languages
 @article{SaPhyoThuHtet,
   title={multilingual-partial-syllable-tokenizer},
   author={Sa Phyo Thu Htet},
-  journal={https://github.com/SaPhyoThuHtet/nlp-tool},
+  journal={https://github.com/SaPhyoThuHtet/multilingual-partial-syllable-tokenizer},
   year={2019-2024}
 }
 ```
