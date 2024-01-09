@@ -1,4 +1,4 @@
-# multilingual-partial-syllable-tokenizer
+# multilingual-partial-syllable-tokenization
 I would like to introduce Multilingual Partial Tokenization—a novel rule-based tokenization method that avoids breaking into complete syllables. Through experimentation, its utility has been uncovered in keyword detection, effectively minimizing False Positive errors and helping a lot in Burmese's rules-based+machine learning name recognition. Notably, this tokenization method is designed to align with the linguistic nuances of languages, but without requiring an exhaustive understanding of each specific language.
 
 Partial Syllable RE Pattern of Tokenizer: [Maybe Preceded By][Maybe Followed By]{0 or more repetition}
@@ -22,6 +22,9 @@ Character-level Tokenization for other languages
   year={2019-2024}
 }
 ```
+
+## Acknowledgment
+I would like to thank Dr. Ye Kyaw Thu, Dr. Hnin Aye Thant, Ma Aye Hninn Khine, ​and Ma Yi Yi Chan Myae Win Shein for their guidance, support, and suggestions. The skills acquired from Dr. Ye Kyaw Thu's NLP Class helped me a lot in order to develop new ideas in NLP Field and this repo. And a shoutout to the creators of Rabbit Converter and jrgraphix.net's Unicode Character Table. These tools were super helpful to develop nlp-concepts especially for Burmese Language. Thanks.
 
 ## References
 1. Unicode Character Table, https://jrgraphix.net/r/Unicode/1000-109F
